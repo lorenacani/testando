@@ -1,3 +1,3 @@
 # Home
 
-[[Requisitos Funcionais]]
+[Requisitos Funcionais](../../wiki/Requisitos-Funcionais)
